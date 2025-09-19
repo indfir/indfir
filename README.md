@@ -1,38 +1,55 @@
-# Hai, saya Indfir 👋
+# Hi, I’m Indfir 👋
 
-## Tentang Saya  
-Saya seorang analis data / BI engineer / Automation enthusiast / SQL & Dashboard builder. Saya suka membuat dashboard, menulis skrip otomatisasi, dan menganalisis data untuk membantu pengambilan keputusan.
-
-## 🔧 Keahlian
-
-- **SQL** (PostgreSQL, MySQL, SQL Server)  
-- **Dashboard & Visualisasi** (Metabase, Power BI, dsb)  
-- **Automation / ETL** (Python, Skrip Harian, scheduling, workflow)  
-- **Data Reporting & Insights**
-
-## 🗂️ Portofolio Project Unggulan
-
-| Nama Proyek | Deskripsi Singkat | Teknologi |
-|-------------|--------------------|-----------|
-| Sales by Region | Analisis total penjualan per wilayah bulanan | SQL, Metabase |
-| Daily ETL Pipeline | Otomatisasi ekstraksi dan penyimpanan data harian | Python, SQLite / DB |
-| Customer Dashboard | Dashboard untuk melihat segmentasi pelanggan dan pertumbuhan bulanan | Metabase, JSON, Screenshots |
-
-## 📁 Struktur Repo Portofolio
-
-- `sql/` – Query‑query & laporan SQL  
-- `metabase/` – Istilah dashboard, JSON / screenshot  
-- `automation/` – Skrip automatisasi & scheduling  
-- `dashboards/` – Preview visual dashboard & dokumentasi
-
-## 📫 Kontak
-
-- Email: **indra.rigel@gmail.com**  
-- LinkedIn: **[Indra Firdaus](https://www.linkedin.com/in/indra-firdaus-a0952259/)**  
-- Website / Blog (kalau ada): **[indfir.com](https://indfir.com/)**
+## 👨‍💻 About Me  
+I’m a **Data Analyst / BI Engineer / Automation Enthusiast / SQL & Dashboard Builder**.  
+I enjoy building dashboards, writing automation scripts, and analyzing data to support better decision-making.  
 
 ---
 
-Terima kasih sudah mampir 🙏  
-Saya terbuka untuk kolaborasi, diskusi proyek, atau peluang kerja di bidang analisis data & dashboards.
+## 🔧 Skills  
 
+- **SQL** (PostgreSQL, MySQL, SQL Server)  
+- **Dashboards & Visualization** (Metabase, Power BI, etc.)  
+- **Automation / ETL** (Python, daily scripts, scheduling, workflows)  
+- **Data Reporting & Insights**  
+
+---
+
+## 📊 Featured Projects  
+
+| Project Name          | Description                                    | Tech Stack          |
+|-----------------------|------------------------------------------------|---------------------|
+| **Sales by Region**   | Monthly sales analysis by region                | SQL, Metabase       |
+| **Daily ETL Pipeline**| Automated daily data extraction & storage       | Python, SQLite / DB |
+| **Customer Dashboard**| Dashboard for customer segmentation & growth    | Metabase, JSON, Screenshots |  
+
+---
+
+## 📂 Repository Structure  
+
+📁 sql/ → SQL queries & reports
+📁 metabase/ → Dashboard JSONs / screenshots
+📁 automation/ → Automation & scheduling scripts
+📁 dashboards/ → Dashboard previews & documentation
+
+
+---
+
+## 📫 Contact  
+
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:indra.rigel@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/indra-firdaus-a0952259/)  
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome&logoColor=white)](https://indfir.com/)  
+
+---
+
+## 📈 GitHub Stats  
+
+![Indfir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=indfir&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indfir&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=indfir&theme=tokyonight)  
+
+---
+
+✨ *Thanks for visiting!*  
+I’m open to **collaboration, project discussions, or career opportunities** in data analytics & dashboards. 🚀
