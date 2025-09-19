@@ -1,27 +1,49 @@
-# Hi, I’m Indfir 👋
+# Hi, I’m Indfir 👋  
 
-## 👨‍💻 About Me  
-I’m a **Data Analyst / BI Engineer / Automation Enthusiast / SQL & Dashboard Builder**.  
-I enjoy building dashboards, writing automation scripts, and analyzing data to support better decision-making.  
+Welcome to my GitHub!  
+I’m a **Business Intelligence Analyst / BI Engineer / Data Enthusiast** passionate about **data analytics, dashboard building, and automation**.  
+I love turning raw data into insights, automating repetitive tasks, and designing interactive dashboards that drive smarter business decisions.  
 
 ---
 
 ## 🔧 Skills  
 
-- **SQL** (PostgreSQL, MySQL, SQL Server)  
-- **Dashboards & Visualization** (Metabase, Power BI, etc.)  
-- **Automation / ETL** (Python, daily scripts, scheduling, workflows)  
-- **Data Reporting & Insights**  
+- **SQL** — PostgreSQL, MySQL, SQL Server, BigQuery  
+- **Dashboards & Visualization** — Tableau, Metabase, Power BI  
+- **Automation & ETL** — Python, daily scripts, scheduling, workflows  
+- **Data Reporting & Insights** — KPI tracking, business performance monitoring, growth analysis  
+
+---
+
+## 💼 Experience  
+
+### Business Intelligence Analyst — Youtap Indonesia  
+📍 Jakarta, Indonesia · Hybrid  
+🗓️ Nov 2022 – Present  
+
+At Youtap, I work at the intersection of **data, business strategy, and automation**, helping transform raw data into actionable insights for decision-makers.  
+
+- Built **interactive dashboards** in Tableau, Power BI, and Metabase to visualize sales performance, merchant growth, subscriptions, and affiliate programs.  
+- Enabled **self-service analytics in Metabase**, reducing BI team dependency.  
+- Designed and maintained **ad-hoc and recurring reports** across departments (sales, marketing, finance, operations).  
+- Optimized **BigQuery SQL queries**, reducing costs via partition pruning, clustering, and column selection.  
+- Partnered with cross-functional teams to translate data into **strategic recommendations**.  
+- Automated recurring dashboards & reports, saving **dozens of hours monthly**.  
+
+**Impact Highlights**:  
+✔ Reduced BigQuery query costs significantly  
+✔ Automated manual reports → faster delivery & consistency  
+✔ Improved data culture by training teams to adopt dashboards  
 
 ---
 
 ## 📊 Featured Projects  
 
-| Project Name          | Description                                    | Tech Stack          |
-|-----------------------|------------------------------------------------|---------------------|
-| **Sales by Region**   | Monthly sales analysis by region                | SQL, Metabase       |
-| **Daily ETL Pipeline**| Automated daily data extraction & storage       | Python, SQLite / DB |
-| **Customer Dashboard**| Dashboard for customer segmentation & growth    | Metabase, JSON, Screenshots |  
+| Project Name         | Description                                    | Tech Stack          |
+|----------------------|------------------------------------------------|---------------------|
+| **Sales by Region**  | Monthly sales analysis segmented by region      | SQL, Metabase       |
+| **Daily ETL Pipeline** | Automated daily data extraction & storage      | Python, SQLite / DB |
+| **Customer Dashboard** | Segmentation dashboard tracking growth & churn | Metabase, JSON, Screenshots |  
 
 ---
 
@@ -51,5 +73,5 @@ I enjoy building dashboards, writing automation scripts, and analyzing data to s
 
 ---
 
-✨ *Thanks for visiting!*  
-I’m open to **collaboration, project discussions, or career opportunities** in data analytics & dashboards. 🚀
+✨ *Thanks for visiting my profile!*  
+I’m always open to **collaboration, project discussions, and career opportunities** in data analytics, BI, and automation. 🚀
