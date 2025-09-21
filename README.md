@@ -9,7 +9,7 @@ I love turning raw data into insights, automating repetitive tasks, and designin
 ## 🔧 Skills  
 
 - **SQL** — PostgreSQL, MySQL, SQL Server, BigQuery  
-- **Dashboards & Visualization** — Tableau, Metabase, Power BI  
+- **Dashboards & Visualization** — Tableau, Metabase, Looker Studio, Power BI  
 - **Automation & ETL** — Python, daily scripts, scheduling, workflows  
 - **Data Reporting & Insights** — KPI tracking, business performance monitoring, growth analysis  
 
