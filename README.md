@@ -1,4 +1,4 @@
-# Hi, I’m Indfir 👋  
+# Hi, I’m Indra Firdaus 👋  
 
 Welcome to my GitHub!  
 I’m a **Business Intelligence Analyst / BI Engineer / Data Enthusiast** passionate about **data analytics, dashboard building, and automation**.  
