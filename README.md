@@ -64,11 +64,11 @@ At Youtap, I work at the intersection of **data, business strategy, and automati
 - **Cost Optimization**: Manage BigQuery cost analysis and SSL certificate maintenance for BI platforms
 
 **Impact Highlights**:
-✔ Reduced BigQuery query costs significantly through partition pruning & clustering
-✔ Automated manual reports → faster delivery & consistency
-✔ Improved data culture by training teams to adopt self-service dashboards
-✔ Built automation solutions saving dozens of hours monthly
-✔ Ensured 99.9% data accuracy across payment reconciliation operations
+- ✅ Reduced BigQuery query costs significantly through partition pruning & clustering
+- ✅ Automated manual reports → faster delivery & consistency
+- ✅ Improved data culture by training teams to adopt self-service dashboards
+- ✅ Built automation solutions saving dozens of hours monthly
+- ✅ Ensured 99.9% data accuracy across payment reconciliation operations
 
 ---
 
