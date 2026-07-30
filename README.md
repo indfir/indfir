@@ -1,114 +1,76 @@
 # Hi, I'm Indra Firdaus 👋
 
-Welcome to my GitHub!
-I'm a **Business Intelligence Analyst / BI Engineer / Data Enthusiast** passionate about **data analytics, dashboard building, and automation**.
-I love turning raw data into insights, automating repetitive tasks, and designing interactive dashboards that drive smarter business decisions.
+**Business Intelligence & Data Analyst** — 10+ years turning raw data into decisions.
+
+I build the pipelines that move the data, the dashboards that explain it, and the internal tools
+that let people act on it. Currently running end-to-end data operations at **Youtap Indonesia
+(OttoDigital Group)** — reconciliation, Airflow pipelines, BigQuery, and BI for five departments.
+
+📍 Jakarta, Indonesia · 🌐 [work.indfir.com](https://work.indfir.com) · 💼 Open to opportunities
 
 ---
 
-## 👤 About Me
+## 🚀 Featured Projects
 
-**Business Intelligence Data Analyst** with **10+ years of experience** in data analytics, reporting, and network optimization. Currently managing end-to-end data operations at **Youtap Indonesia (OttoDigital Group)**, covering data pipeline management, reconciliation operations, BI dashboard development, and cross-functional analytics support.
-
-Experienced in building automation solutions to improve operational efficiency and delivering data-driven insights to stakeholders across multiple departments.
-
-📍 Jakarta Selatan, DKI Jakarta, Indonesia
-📱 +62 811-3144-42
-📧 indra.rigel@gmail.com
-
----
-
-## 🔧 Skills
-
-### Data & Analytics
-- **SQL** — PostgreSQL, MySQL, SQL Server, BigQuery
-- **Python** — Data analysis, automation, ETL processes
-- **Google BigQuery** — Data warehousing, cost optimization
-- **Data Reconciliation** — Transaction matching, settlement reporting
-
-### Dashboards & Visualization
-- **Tableau** — Interactive dashboards, business performance reports
-- **Metabase** — Self-service analytics, embedded dashboards
-- **Looker Studio** — Marketing & operations reporting
-- **Power BI** — Executive dashboards & KPI tracking
-
-### Data Engineering & Automation
-- **Apache Airflow** — Pipeline orchestration & monitoring
-- **Google Cloud Storage (GCS)** — Data lake management
-- **Google Apps Script** — Workflow automation
-- **Telegram Bot API** — Automated notifications & reporting
-- **ETL Processes** — Data extraction, transformation, loading
-
-### Tools & Platforms
-- **Google Cloud Platform** — BigQuery, GCS, Cloud Functions
-- **Jira & Confluence** — Project management & documentation
-- **Git** — Version control & collaboration
-- **Microsoft Excel** — Advanced analysis & reporting
+| Project | What it is | Stack |
+|---|---|---|
+| **[Auto-Reconciliation Pipeline + Recon Control Center](https://github.com/indfir/Auto-Reconciliation-Pipeline)** | Daily payment reconciliation across 12 issuers and 4 banks, plus the internal console that runs it — with an AI briefing layer. [Live demo →](https://work.indfir.com/demo/recon-control-center/) | Apps Script · Airflow · BigQuery · Flask · LLM APIs |
+| **[indfir.com — AI news portal](https://github.com/indfir/daily-news-bot)** | Fully autonomous news site: an AI agent researches, writes and publishes 800–1,000-word articles across 8 categories. 2,100+ articles, zero manual writing. | Python · Bash · LLM · WordPress API · systemd |
+| **[Zoning Champion Dashboard](https://github.com/indfir/Zoning-Champion-Dashboard)** | Field operations analytics across 7 territories and 40+ squads — 5 dashboard layers on one geographic hierarchy. | Tableau · Mapbox · SQL |
+| **[Smart Tools](https://github.com/indfir/smart-tools)** · **[Smart Tools Local](https://github.com/indfir/smart-tools-local)** | 45+ PDF, image and document tools. One runs fully in the browser, one runs offline on your machine. | FastAPI · Python · JavaScript |
+| **[Daily News Bot](https://github.com/indfir/daily-news-bot)** | RSS aggregator that delivers a daily brief to Telegram at 06:00 WIB, scheduled on GitHub Actions. | PowerShell · GitHub Actions · Telegram API |
+| **[Auto File Organizer](https://github.com/indfir/Auto-File-Organizer)** | Desktop app that sorts messy folders by type, date or extension — with preview, undo and duplicate detection. | Python · Tkinter |
 
 ---
 
-## 💼 Experience
+## 🔧 What I work with
 
-### Business Intelligence Analyst — Youtap Indonesia
-📍 Jakarta, Indonesia · Hybrid
-🗓️ Nov 2022 – Present
+**Data & analytics** — SQL (BigQuery, PostgreSQL, MySQL, SQL Server) · Python · data reconciliation · ETL
 
-At Youtap, I work at the intersection of **data, business strategy, and automation**, helping transform raw data into actionable insights for decision-makers.
+**Dashboards** — Tableau · Metabase · Looker Studio · Power BI
 
-- **Data Reconciliation**: Manage daily data reconciliation operations across multiple payment issuers and banks, ensuring transaction data accuracy between internal systems and external partners
-- **Pipeline Management**: Maintain and monitor data pipelines using Apache Airflow, managing data flows from Google Cloud Storage to BigQuery and troubleshooting job failures
-- **Dashboard Development**: Build, maintain, and update interactive dashboards using Tableau, Metabase, and Looker Studio for operations, finance, and management teams
-- **Cross-functional Support**: Fulfill ad-hoc data requests and provide analytical support to Operations, Finance, Business & Partner, Product, and Compliance teams
-- **Automation**: Develop Python automation solutions to streamline manual processes such as data formatting, reconciliation matching, and settlement reporting
-- **Compliance Reporting**: Collaborate with stakeholders to translate business requirements into data deliverables, including compliance reporting for government agencies
-- **Cost Optimization**: Manage BigQuery cost analysis and SSL certificate maintenance for BI platforms
+**Data engineering** — Apache Airflow · Google Cloud Storage · Cloud Run · Google Apps Script
 
-**Impact Highlights**:
-- ✅ Reduced BigQuery query costs significantly through partition pruning & clustering
-- ✅ Automated manual reports → faster delivery & consistency
-- ✅ Improved data culture by training teams to adopt self-service dashboards
-- ✅ Built automation solutions saving dozens of hours monthly
-- ✅ Ensured 99.9% data accuracy across payment reconciliation operations
+**Internal tooling & AI** — FastAPI · Flask · LLM APIs (OpenAI, Anthropic, Qwen) · prompt engineering ·
+auth & role-based access · CI with automatic versioning
+
+**Platforms** — Google Cloud Platform · Git · Jira · Confluence
 
 ---
 
-## 📊 Featured Projects
+## 💼 Currently
 
-| Project Name         | Description                                    | Tech Stack          |
-|----------------------|------------------------------------------------|---------------------|
-| **Sales by Region**  | Monthly sales analysis segmented by region      | SQL, Metabase       |
-| **Daily ETL Pipeline** | Automated daily data extraction & storage      | Python, Airflow, GCS |
-| **Customer Dashboard** | Segmentation dashboard tracking growth & churn | Metabase, JSON |
-| **Reconciliation System** | Automated payment reconciliation across banks | Python, BigQuery |
-| **Compliance Reports** | Government compliance reporting automation | SQL, Python, Apps Script |
+**Business Intelligence Analyst — Youtap Indonesia** · Nov 2022 – present
+
+- Daily reconciliation across multiple payment issuers and banks, keeping internal and partner
+  transaction data in agreement
+- Airflow pipelines from Cloud Storage into BigQuery — monitoring, troubleshooting, cost tuning
+- Dashboards in Tableau, Metabase and Looker Studio for Operations, Finance and management
+- Python and Apps Script automation replacing manual formatting, matching and settlement reporting
+- Compliance reporting for government agencies
+
+**Some results**
+
+- Cut BigQuery costs through partition pruning and clustering
+- 99.9% data accuracy across payment reconciliation
+- Replaced a daily hunt across four systems with one internal console, now used by three teams
+- Built automation saving dozens of hours a month
 
 ---
 
-## 📂 Repository Structure
+## 📫 Get in touch
 
-📁 sql/ → SQL queries & reports
-📁 metabase/ → Dashboard JSONs / screenshots
-📁 automation/ → Automation & scheduling scripts
-📁 dashboards/ → Dashboard previews & documentation
-
----
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:indra.rigel@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/indra-firdaus-a0952259/)
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome&logoColor=white)](https://indfir.com/)
-[![Phone](https://img.shields.io/badge/Phone-+62811314442-success?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/62811314442)
+[![Portfolio](https://img.shields.io/badge/Portfolio-work.indfir.com-6b4ce2?style=flat&logo=google-chrome&logoColor=white)](https://work.indfir.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:indra.rigel@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra-firdaus-a0952259/)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Indfir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=indfir&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=indfir&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indfir&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=indfir&theme=tokyonight)
 
 ---
 
-✨ *Thanks for visiting my profile!*
-I'm always open to **collaboration, project discussions, and career opportunities** in data analytics, BI, and automation. 🚀
+*Open to collaboration and opportunities in data analytics, BI and automation.*
