@@ -66,11 +66,4 @@ auth & role-based access · CI with automatic versioning
 
 ---
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=indfir&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indfir&layout=compact&theme=tokyonight)
-
----
-
 *Open to collaboration and opportunities in data analytics, BI and automation.*
