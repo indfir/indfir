@@ -19,8 +19,10 @@ that let people act on it. Currently running end-to-end data operations at **You
 | **[HAAJ Event Ticketing](https://github.com/indfir/haaj-ticketing)** | Event ticketing for an amateur astronomy community — public site, admin dashboard and phone-based QR check-in in one codebase. | Next.js 16 · TypeScript · Prisma · PostgreSQL · Auth.js |
 | **[Zoning Champion Dashboard](https://github.com/indfir/Zoning-Champion-Dashboard)** | Field operations analytics across 7 territories and 40+ squads — 5 dashboard layers on one geographic hierarchy. | Tableau · Mapbox · SQL |
 | **[Smart Tools Local](https://github.com/indfir/smart-tools-local)** | 45+ PDF, image and document tools running offline on your own machine — no cloud, no uploads, no tracking. | FastAPI · Python · JavaScript |
-| **[Daily News Bot](https://github.com/indfir/daily-news-bot)** | RSS aggregator that delivers a daily brief to Telegram at 06:00 WIB, scheduled on GitHub Actions. | PowerShell · GitHub Actions · Telegram API |
-| **[Auto File Organizer](https://github.com/indfir/Auto-File-Organizer)** | Desktop app that sorts messy folders by type, date or extension — with preview, undo and duplicate detection. | Python · Tkinter |
+| **[Credit Card Fraud Detection](https://github.com/indfir/credit-card-fraud-detection)** | Cost-sensitive ML (XGBoost/LightGBM) for credit card fraud — EDA, feature engineering, imbalanced-data modeling with AUPRC evaluation, plus an interactive Streamlit dashboard for risk teams. | Python · XGBoost · LightGBM · Streamlit |
+| **[Excel AI Assistant](https://github.com/indfir/excel-ai-assistant)** | Office Add-in untuk Excel dengan AI agent yang bisa membaca dan mengubah workbook lewat Office.js — chart, pivot, rumus, format, dan analisa, dengan izin per aksi. | Python · Office.js · Office Add-in |
+| **[Daily News Bot](https://github.com/indfir/daily-news-bot)** | PowerShell bot that aggregates 8 news topics from hundreds of RSS sources and delivers a daily brief to Telegram at 06:00 WIB — scheduled on GitHub Actions with 30-day deduplication. | PowerShell · GitHub Actions · Telegram API |
+| **[Auto File Organizer](https://github.com/indfir/Auto-File-Organizer)** | Desktop app that sorts messy folders into categorized subfolders by type, date or extension — with preview, undo, duplicate detection by content hash and real-time folder monitoring. | Python · Tkinter |
 
 ---
 
