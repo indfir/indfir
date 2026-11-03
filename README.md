@@ -15,7 +15,7 @@ that let people act on it. Currently running end-to-end data operations at **You
 | Project | What it is | Stack |
 |---|---|---|
 | **[Auto-Reconciliation Pipeline + Recon Control Center](https://github.com/indfir/Auto-Reconciliation-Pipeline)** | Daily payment reconciliation across 12 issuers and 4 banks, plus the internal console that runs it — with an AI briefing layer. [Live demo →](https://work.indfir.com/demo/recon-control-center/) | Apps Script · Airflow · BigQuery · Flask · LLM APIs |
-| **[indfir.com — AI news portal](https://indfir.com)** · **[theme](https://github.com/indfir/indfir-theme)** | Fully autonomous news site: an AI agent researches, writes and publishes 800–1,000-word articles across 8 categories. 2,100+ articles, zero manual writing. | Python · Bash · LLM · WordPress API · systemd |
+| **[indfir.com — AI news portal](https://indfir.com)** · **[theme](https://github.com/indfir/indfir-theme)** | Fully autonomous news site: scheduled AI jobs research, write and publish 800–1,000-word Indonesian articles across 10 categories — ~6,000 articles, 50 publishing slots/day timed to reader peaks, zero manual writing. | Hermes Agent · LLM (DeepSeek, Gemini) · Python · Bash · WordPress API |
 | **[HAAJ Event Ticketing](https://github.com/indfir/haaj-ticketing)** | Event ticketing for an amateur astronomy community — public site, admin dashboard and phone-based QR check-in in one codebase. | Next.js 16 · TypeScript · Prisma · PostgreSQL · Auth.js |
 | **[Zoning Champion Dashboard](https://github.com/indfir/Zoning-Champion-Dashboard)** | Field operations analytics across 7 territories and 40+ squads — 5 dashboard layers on one geographic hierarchy. | Tableau · Mapbox · SQL |
 | **[Smart Tools Local](https://github.com/indfir/smart-tools-local)** | 45+ PDF, image and document tools running offline on your own machine — no cloud, no uploads, no tracking. | FastAPI · Python · JavaScript |
@@ -34,7 +34,7 @@ that let people act on it. Currently running end-to-end data operations at **You
 
 **Data engineering** — Apache Airflow · Google Cloud Storage · Cloud Run · Google Apps Script
 
-**Internal tooling & AI** — FastAPI · Flask · LLM APIs (OpenAI, Anthropic, Qwen) · prompt engineering ·
+**Internal tooling & AI** — FastAPI · Flask · LLM APIs (OpenAI, Anthropic, Qwen, DeepSeek) · prompt engineering ·
 auth & role-based access · CI with automatic versioning
 
 **Platforms** — Google Cloud Platform · Git · Jira · Confluence
